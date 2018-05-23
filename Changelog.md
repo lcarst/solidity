@@ -1,6 +1,7 @@
 ### 0.5.0 (unreleased)
 
-
+Compiler features:
+ * Parser: Introduce emit as a keyword instead of parsing it as identifier.
 
 ### 0.4.24 (2018-05-16)
 
